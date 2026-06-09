@@ -1,9 +1,9 @@
 {
-    "updated_at":  "2026-06-09",
-    "label":  "Serveur Internet Boulangerie Lomoto",
-    "api_token":  "",
-    "notes":  "Serveur Internet actif via Cloudflare Tunnel. Les postes Windows distants utilisent cette adresse avec le jeton prive du serveur.",
-    "required":  true,
-    "server_url":  "https://app.boulangerie-lomoto.com",
-    "enabled":  true
+  "enabled": true,
+  "required": true,
+  "label": "Serveur Internet Boulangerie Lomoto",
+  "server_url": "https://app.boulangerie-lomoto.com",
+  "api_token": "",
+  "updated_at": "2026-06-09",
+  "notes": "Serveur Internet actif via Cloudflare Tunnel. Les postes Windows distants utilisent cette adresse avec le jeton prive du serveur."
 }
