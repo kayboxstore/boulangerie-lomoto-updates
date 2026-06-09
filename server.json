@@ -1,9 +1,9 @@
 {
-    "enabled":  true,
-    "required":  true,
-    "label":  "Serveur Internet temporaire Boulangerie Lomoto",
-    "server_url":  "https://days-selected-dividend-decrease.trycloudflare.com",
+    "updated_at":  "2026-06-09",
+    "label":  "Serveur Internet Boulangerie Lomoto",
     "api_token":  "",
-    "updated_at":  "2026-06-05T18:44:14+01:00",
-    "notes":  "Tunnel HTTPS temporaire de recette. L\u0027adresse changera aprÃ¨s un redÃ©marrage."
+    "notes":  "Serveur Internet actif via Cloudflare Tunnel. Les postes Windows distants utilisent cette adresse avec le jeton prive du serveur.",
+    "required":  true,
+    "server_url":  "https://app.boulangerie-lomoto.com",
+    "enabled":  true
 }
