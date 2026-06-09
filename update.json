@@ -1,6 +1,6 @@
 {
-  "version": "1.3.18",
-  "download_url": "https://github.com/kayboxstore/boulangerie-lomoto/releases/download/v1.3.18/BoulangerieLomotoSetup.exe",
-  "published_at": "2026-06-03",
-  "notes": "Version 1.3.18 : retour à l'ancien design, affichage optionnel du mot de passe à la connexion, rapports mensuels obligatoires après une semaine et mise à jour obligatoire après 10 jours."
+    "download_url":  "https://github.com/kayboxstore/boulangerie-lomoto/releases/download/v1.3.29/BoulangerieLomotoSetup.exe",
+    "published_at":  "2026-06-09",
+    "version":  "1.3.29",
+    "notes":  "Correction de la connexion Windows distante via domaine Cloudflare, annuaire serveur public mis a jour, base prete pour configuration du premier Admin."
 }
